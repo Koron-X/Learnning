@@ -1,2 +1,2 @@
-# Leranning
+# Learnning
 Go Fighting
